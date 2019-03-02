@@ -36,7 +36,6 @@ else {
 	psychicGuess.length = 0;
 	var pGuess = pyschicChoice[Math.floor(Math.random() * psychicChoice.length)];
 	psychicGuess.push(pGuess);
-	console.log(psychicGuess[0]);
 }
 
 var html = 
